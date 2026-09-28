@@ -1,0 +1,9 @@
+
+body{font-family:Tahoma;background:#f5f7f8;color:#123;padding:0;margin:0}
+nav{background:white;padding:15px;text-align:center}
+nav a{margin:10px;color:#123;text-decoration:none;font-weight:bold}
+header,section{background:white;margin:25px auto;padding:30px;border-radius:15px;max-width:900px;text-align:center}
+header{background:#123b4a;color:white}
+.btn{display:inline-block;background:#1da39a;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;margin:10px;border:0}
+.card{background:#eef5f7;padding:20px;margin:15px;border-radius:12px}
+input{padding:10px;width:80%}
